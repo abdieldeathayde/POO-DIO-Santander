@@ -7,4 +7,4 @@
   - Java
   - IDE (Eclipse, Intellij, Netbeans ou outro)
 
-![image](https://github.com/abdieldeathayde/POO-DIO-Santander/assets/46298069/fe2a3f70-5c3b-4fef-b40c-3097b4dd7710)
+<img src = "img/DesafioDioSantander.png" alt ="Imagem do diagrama">
